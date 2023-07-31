@@ -4,3 +4,4 @@ import ComponentTwo from '@components/component2';
 
 const component1Ignored = new ComponentOne(document.body);
 const component2Ignored = new ComponentTwo(document.body);
+
